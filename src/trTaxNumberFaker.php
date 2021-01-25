@@ -1,7 +1,5 @@
 <?php
 
-namespace XAdam;
-
 function trTaxNumberFaker(): string
 {
     $digits = [];
